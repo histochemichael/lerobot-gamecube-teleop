@@ -63,7 +63,7 @@ The script samples trigger baselines at startup, then enters the control loop.
 | --- | --- |
 | Left stick | Shoulder pan / shoulder lift |
 | Right / C-stick | Wrist roll |
-| R trigger | Wrist flex forward |
+| Up / C-stick | Wrist flex forward |
 | L trigger | Wrist flex backward |
 | `Y` | Raise elbow flex |
 | `X` | Lower elbow flex |
